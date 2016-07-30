@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rjrahul.github.io" # the base hostname & protocol for your site
 #logourl: /assets/images/logo.png # Site logo
 author: "Rahul Jain"
-author_gravatar: "http://s.gravatar.com/avatar/6a73922a26173547b6779d11038aad31?s=80" # Author avatar
+author_gravatar: "https://s.gravatar.com/avatar/6a73922a26173547b6779d11038aad31?s=80" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
