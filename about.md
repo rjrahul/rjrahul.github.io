@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About me
 permalink: /about/
-banner_image: sample-banner-image-2.jpg
+banner_image: about_me.jpg
 banner_image_alt: About me
 ---
 
@@ -19,6 +18,3 @@ Find me on
 ---
 
 {% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
