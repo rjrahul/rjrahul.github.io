@@ -6,15 +6,15 @@ banner_image: sample-banner-image-2.jpg
 banner_image_alt: About me
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Hi, Rahul here.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+Programmer by heart and by profession. I always strive to learn and develop.
+
+Extensively worked on Java, J2EE, NodeJS and web-services technologies.
 
 ### Contact me
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
+Find me on
 
 ---
 
