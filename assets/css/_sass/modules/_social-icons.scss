@@ -17,11 +17,11 @@ ul.social-media {
     width: 24px;
     height: 24px;
     border: 1px solid lighten($color-1, 8%);
-    background-image: url("./images/social-icons1.png");
-    background-size: 168px 48px;
-    background-color: darken($color-1, 2%);
+    background-image: url("./images/social2.png");
+    background-color: darken($color-2, 20%);
     @include transition(background-color 0.2s);
     border-bottom-color: lighten($color-1, 8%);
+    border-radius: 50%;
 
     &:hover {
       background-color: $color-white;
@@ -29,58 +29,65 @@ ul.social-media {
   }
     
   li a.linkedin {
-    background-position: -168px 0;
-      &:hover {
-        background-position: -168px -24px;
-    } 
+    background-position: -160px -109px;
+    &:hover {
+      background-position: -160px -109px;
+    }
+  }
+
+  li a.skype {
+    background-position: -572px -109px;
+    &:hover {
+      background-position: -572px -109px;
+    }
   }
 
   li a.twitter {
-    background-position: 0 0;
-      &:hover {
-        background-position: 0 -24px;
-    } 
+    background-position: -6px -109px;
+    &:hover {
+      background-position: -6px -109px;
+    }
   }
 
   li a.github {
-    background-position: -24px 0;
+    background-position: -470px -109px;
     &:hover {
-      background-position: -24px -24px;
+      background-position: -470px -109px;
     }
   }
 
   li a.facebook {
-    background-position: -48px 0;
+    background-position: -56px -109px;
     &:hover {
-      background-position: -48px -24px;
+      background-position: -56px -109px;
     }
   }
 
   li a.dribble {
-    background-position: -72px 0;
+    background-position: -57px -263px;
     &:hover {
-      background-position: -72px -24px;
+      background-position: -57px -263px;
     }
   }
 
   li a.google {
-    background-position: -96px 0;
+    background-position: -109px -109px;
     &:hover {
-      background-position: -96px -24px;
+      background-position: -109px -109px;
     }
   }
 
   li a.pinterest {
-    background-position: -144px 0;
+    background-position: -212px -109px;
     &:hover {
-      background-position: -144px -24px;
+      background-position: -212px -109px;
     }
   }
 
   li a.rss {
-    background-position: -120px 0;
+    background-position: -315px -109px;
     &:hover {
-      background-position: -120px -24px;
+      background-position: -315px -109px;
     }
   }
 }
@@ -89,14 +96,15 @@ ul.social-media {
  * IE fallback 
  */
 .no-svg footer.main-footer ul.social-media li a {
-  width: 24px;
-  height: 24px;
+  width: 18px;
+  height: 18px;
   border: 1px solid $color-white;
-  background-image: url("./images/social-icons1.png");
-  background-size: 168px 48px;
+  background-image: url("./images/social2.png");
+//   background-size: 168px 48px;
   border-radius: 0.25em;
   @include transition(background-color 0.2s);
-  border-bottom-color: transparent;
+//   border-bottom-color: transparent;
+  display: inline-block;
 
   &:hover {
     background-color: $color-white;
