@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Archives
 permalink: /archive/
 banner_image: archives2.jpg
 ---
