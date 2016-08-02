@@ -6,7 +6,7 @@ category:
 comments: true
 ---
 
-Following are the terms which come to my mind when we talk about OAuth 2.0
+Following are the terms that come to my mind when we talk about OAuth 2.0
 
 * **OAuth**
   OAuth is a decentralized way of authorizing the consumer with generally no information about user known to the consuming application. The information that resource owner most certainly wants to protect is his/her authentication credentials.
