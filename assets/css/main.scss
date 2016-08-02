@@ -599,6 +599,16 @@ img {
   padding: 1em 0;
 }
 
+/* Put some padding around post ul, ol */
+.post .post-content ul, .post .post-content ol {
+  padding-left: 1em;
+}
+
+/* Put some padding around page ul, ol */
+.page .post-content ul, .page .post-content ol {
+  padding-left: 1em;
+}
+
 /* Meta info after post-title */
 .post-meta {
   color: $gray-light;
