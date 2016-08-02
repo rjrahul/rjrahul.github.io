@@ -14,7 +14,7 @@ theme:
   # Color for sidebar bar, links, etc
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
-  social: 
+  social:
     github: rjrahul
     twitter: rahulj_
     facebook: J.RahulJ
@@ -30,11 +30,11 @@ theme:
   show_author_info: true
 
   # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
+  disqus_shortname: Rahulj_96
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key: 
-  google_webmaster_key: 
+  google_analytics_key:
+  google_webmaster_key:
 
 # Build settings
 markdown: kramdown
@@ -46,7 +46,7 @@ permalink:        pretty
 paginate: 5
 
 # Files/Folders to be excluded from generated _site folder
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
