@@ -63,4 +63,4 @@ To start the servers use command `node .`
 If the `schemes` (in API definition) has been set to http use http else https as protocol
 to invoke gateway.
 
-**P.S. If you have already created your API specs using swagger then just adding the x-ibm-configuration tag to the API specification should do the trick.**
+**P.S. If you have already created your API specs using swagger then just adding the `x-ibm-configuration` tag to the API specification should do the trick.**
